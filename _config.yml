@@ -26,11 +26,11 @@ author:
   avatar           : "profile.jpeg"
   name             : "Luka Zwaan"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral scholarship holder in the Geometry Section of the Department of Mathematics"
+  bio              : "Postdoctoral researcher in mathematics"
   location         : "Belgium"
   employer         : "KU Leuven"
   uri              : # URL
-  email            : "luka.zwaan [at] kuleuven [dot] be" 
+  email            : "luka.zwaan@kuleuven.be" 
 
   # Academic websites
   academia         : # URL
