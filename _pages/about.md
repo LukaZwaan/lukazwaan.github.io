@@ -21,9 +21,9 @@ Academic bio
   * Advisor: [Rui Loja Fernandes](https://publish.illinois.edu/ruiloja/)
   * Thesis: [Duistermaat-Heckman measures for Hamiltonian groupoid actions](https://www.ideals.illinois.edu/items/131465)
 * September 2016 - August 2018: MSc. in Mathematical Sciences at Utrecht University
-  * Master thesis: Poisson Manifolds of Compact Types
+  * Master thesis: [Poisson Manifolds of Compact Types](https://studenttheses.uu.nl/handle/20.500.12932/30792)
   * Supervised by [Marius Crainic](https://webspace.science.uu.nl/~crain101/)
 * September 2013 - July 2016: BSc. in Mathematics at Utrecht University
-  * Bachelor thesis: The Conley-Zehnder Theorem
+  * Bachelor thesis: [The Conley-Zehnder Theorem](https://studenttheses.uu.nl/handle/20.500.12932/23394)
   * Supervised by [Fabian Ziltener](https://math.ethz.ch/research/symplectic-algebraic-geometry-topology/fabian-ziltener.html)
 * September 2013 - July 2016: BSc. in Physics & Astronomy at Utrecht University
