@@ -11,6 +11,8 @@ My main area of research is Poisson geometry. I am particularly interested in Po
 
 Click [here](/files/CV_LukaZwaan.pdf) to look at my CV.
 
+I am co-organising the [Poisson 2026 conference](https://wis.kuleuven.be/events/2026_poisson/conference_poisson2026), held in Leuven on August 10-14, 2026.
+
 Academic bio
 ------
 
