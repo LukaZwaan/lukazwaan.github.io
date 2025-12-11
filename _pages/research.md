@@ -12,10 +12,24 @@ Papers
 * _Poisson manifolds of strong compact type over 2-tori_. Pacific J. Math. 325 (2023), no.2, 353-374.
   * DOI: [10.2140/pjm.2023.325.353](https://msp.org/pjm/2023/325-2/p08.xhtml)
 
-Talks
+Selected talks
 ------
 
+* _Duistermaat-Heckman measures for Hamiltonian groupoid actions_
 
-
-Conferences, workshops & schools
+Selected events
 ------
+
+* __Around Singularities in Poisson Geometry__, Hangzhou; August 3-8, 2025.
+* __Interactions of Poisson Geometry, Lie Theory and Symmetry__, Lisbon; June 30-July 4, 2025.
+* __Poisson 2024 School & Conference__, Napoli; July 1-12, 2024.
+* __Gone Fishing 2024__, Evanston; April 11-14, 2024.
+* __GroupoidFest 2023__, Tempe; November 11-12, 2023.
+* __Gone Fishing 2023__, Amherst; March 16-19, 2023.
+* __Workshop on Lie Groups, Singular Spaces and Higher Structures__, Toronto; January 9-13, 2023.
+* __Poisson 2022 School & Conference__, Barcelona & Madrid; July 18-29, 2022.
+* __Gone Fishing 2020-2022__, Savannah; April 7-10, 2022.
+* __Lie theory and Poisson geometry__, Marseille; January 10-14, 2022.
+* __School of & International Conference on Poisson Geometry__, Rio de Janeiro; December 2-13, 2019.
+* __Autumn School: Deformations and Rigidity in Algebra, Geometry and Analysis__, Würzburg; October 7-11, 2019.
+* __Poisson 2018 School & Conference__, Toronto; July 9-20, 2018.
