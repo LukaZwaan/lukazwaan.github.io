@@ -19,4 +19,4 @@ Master student seminar, KU Leuven
 Bachelor projects, KU Leuven
 ------
 
-*Fall 2025: Noa Overloop, Miran van Casteren, Cas van Herbruggen, Zoya Lewyckyj, Cyriel Onsia, _Poisson Geometry on $$\mathbb{R}^n$$_.
+* Fall 2025: Noa Overloop, Miran van Casteren, Cas van Herbruggen, Zoya Lewyckyj, Cyriel Onsia, _Poisson Geometry on Euclidean space_.
