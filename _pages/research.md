@@ -20,7 +20,6 @@ Selected talks
 * _Duistermaat-Heckman results for Hamiltonian groupoid actions_, Gone Fishing 2023, Amherst College; March 2023.
 * _Duistermaat-Heckman results for Hamiltonian groupoid actions_, Workshop on Lie Groups, Singular Spaces and Higher Structures, University of Toronto, January 2023.
 * _Poisson manifolds of strong compact type over 2-tori_, Lie Theory and Poisson Geometry, CIRM; January 2022.
-* _Poisson manifolds of strong compact type over 2-tori_, Symplectic & Poisson Geometry Seminar (online), UIUC; March 2021.
 * _Introduction to Poisson Geometry_, Graduate Geometry/Topology Seminar, UIUC; September 2019.
 
 Selected events
