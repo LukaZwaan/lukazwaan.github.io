@@ -15,6 +15,9 @@ Papers
 Selected talks
 ------
 
+* _Some thoughts on Poisson orbifolds and their integration_, Poisson seminar, KU Leuven; November 2025.
+* _Intro to equivariant cohomology and localisation_, Poisson seminar, KU Leuven; April 2025.
+* _Duistermaat-Heckman measures for Hamiltonian groupoid actions_, Analysis & Geometry seminar, University of Antwerp; March 2025.
 * _Duistermaat-Heckman measures for Hamiltonian groupoid actions_, Geometry seminar, KU Leuven; October 2024.
 * _Symplectic groupoids in Poisson geometry_, GroupoidFest 2023, ASU; November 2023.
 * _Duistermaat-Heckman results for Hamiltonian groupoid actions_, Gone Fishing 2023, Amherst College; March 2023.
