@@ -8,7 +8,7 @@ author_profile: true
 Master students
 ------
 
-* 2025/2026: Michael Anthony McGloin, _Classification of integral affine structures on compact surfaces_.
+* 2025/26: Michael Anthony McGloin, _Classification of integral affine structures on compact surfaces_.
 
 Bachelor students, KU Leuven
 ------
