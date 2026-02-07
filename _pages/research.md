@@ -28,6 +28,7 @@ Selected talks
 Selected events
 ------
 
+* __Higher Geometric Structures along the Lower Rhine XIX__, Cologne; September 25-26, 2025.
 * __Around Singularities in Poisson Geometry__, Hangzhou; August 3-8, 2025.
 * __Interactions of Poisson Geometry, Lie Theory and Symmetry__, Lisbon; June 30-July 4, 2025.
 * __Poisson 2024 School & Conference__, Napoli; July 1-12, 2024.
